@@ -1,0 +1,3 @@
+#Turn off ds4 led
+
+ACTION=="add", KERNEL=="js[0-9]*", SUBSYSTEM=="input", RUN+="/usr/bin/bash /usr/bin/ds4-disable-led"
