@@ -1,9 +1,9 @@
 Package: ds4-disable-led
-Version: 1.0.0-1big1
+Version: 1.0.0-1big2
 Depends:
 Architecture: all
 Maintainer: Bruno Goncalves <www.biglinux.com.br>
 Section: admin
 Priority: optional
-Installed-Size:
+Installed-Size:16
 Description: Turn off DS4 Joystick LED (DS4 is a Playstation 4 joystick), to improve battery usage

@@ -1,0 +1,4 @@
+815efa7b924e004c257a175baca80f14  DEBIAN/control
+d41d8cd98f00b204e9800998ecf8427e  DEBIAN/md5sums
+53b5813d868ded67d62f8184df796e9a  usr/bin/ds4-disable-led
+a8247c8604f3214ccec921ae66f24a7e  etc/udev/rules.d/60-ds4-disable-led.rules
